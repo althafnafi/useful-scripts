@@ -1,5 +1,5 @@
 # useful-scripts
-## How to use the scripts
+<i>How to use the scripts<i>
 ### gen_cfg
 Generate config commands for packet tracer based on network's data that's given
 ```
